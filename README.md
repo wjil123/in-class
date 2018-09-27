@@ -1,2 +1,2 @@
 # in-class
-In-class exercises
+Collection of in-class exercises.
