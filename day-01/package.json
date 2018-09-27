@@ -8,7 +8,9 @@
     "lodash": "^4.17.4"
   },
   "devDependencies": {
-    "jest": "^23.6.0"
+    "cheerio": "^1.0.0-rc.2",
+    "jest": "^23.6.0",
+    "jest-style-matchers": "^0.1.1"
   },
   "scripts": {
     "test": "jest"
