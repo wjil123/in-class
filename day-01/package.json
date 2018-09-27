@@ -1,0 +1,10 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "description": "A project with an example package.json",
+  "author": "Jacob A. Morris",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+    }
+}
