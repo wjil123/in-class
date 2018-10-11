@@ -1,8 +1,9 @@
-.intro {
+.intro h1 {
+	font-size: 1em;
+	background: chartreuse;
 }
 
 header {
-
 }
 
 .summary {
